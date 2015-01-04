@@ -3,9 +3,7 @@
 stuff, like the sidebar) to bring you a similar user experience
 while giving you the freedom to host it on your own servers and on your own terms.
 
-![Readium 2.0](http://cl.ly/VBX3/readium2.jpg)
-
-**Check out [Mark Reads Blog](http://mark-read.info) as an good example**.
+**Check out http://nikolak.com for example usage**.
 
 Just drop this theme in your Ghost theme folder and choose it in your Ghost admin dashboard (after restarting Ghost).
 
